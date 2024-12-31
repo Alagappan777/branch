@@ -1,0 +1,3 @@
+What is string concatenation with example?
+In formal language theory and computer programming, string concatenation is the operation of joining character strings end-to-end. For example, the concatenation of "snow" and "ball" is "snowball".
+There are primarily three methods to concatenate strings in C: using the strcat() function, the strncat() function, and manual concatenation using loops. Each method has its use cases and potential pitfalls, making it important to choose the right approach based on the specific requirements of your application.
