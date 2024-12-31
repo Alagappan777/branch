@@ -1,0 +1,2 @@
+Add double quotation marks with a space between them " ". For example: =CONCATENATE("Hello", " ", "World!").
+Add a space after the Text argument. For example: =CONCATENATE("Hello ", "World!"). The string "Hello " has an extra space added.
